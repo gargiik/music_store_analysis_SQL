@@ -1,7 +1,6 @@
-🎵 Music Store Data Analysis (PostgreSQL)
+# 🎵 Music Store Data Analysis (PostgreSQL)
 
-📌 Project Overview
-
+## 📌 Project Overview
 This project analyzes a digital music store database using PostgreSQL.
 The objective is to extract business insights related to customer behavior, revenue trends, genre popularity, and artist performance using SQL queries.
 
@@ -9,7 +8,7 @@ The analysis is performed on the Chinook sample database, which simulates a real
 
 ⸻
 
-🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 	•	PostgreSQL
 	•	pgAdmin
 	•	SQL
@@ -17,10 +16,7 @@ The analysis is performed on the Chinook sample database, which simulates a real
 
 ⸻
 
-🗂 Database Information
-
-Database Used: Chinook Database
-
+## 🗂 Database Information
 The database includes the following key tables:
 	•	customer
 	•	invoice
@@ -36,7 +32,7 @@ The database follows a relational structure connecting customers, purchases, tra
 
 ⸻
 
-📊 Business Questions Solved
+## 📊 Business Questions Solved
 
 This project answers the following business questions:
 	1.	Who is the senior most employee based on job title?
@@ -50,7 +46,7 @@ This project answers the following business questions:
 
 ⸻
 
-🔎 Key Insights
+## 🔎 Key Insights
 	•	Certain countries contribute significantly more invoices than others.
 	•	Revenue is concentrated in specific cities.
 	•	A small group of customers generate high overall revenue.
@@ -59,7 +55,7 @@ This project answers the following business questions:
 
 ⸻
 
-🧠 SQL Concepts Used
+## 🧠 SQL Concepts Used
 	•	JOIN (INNER JOIN across multiple tables)
 	•	GROUP BY
 	•	ORDER BY
@@ -71,6 +67,27 @@ This project answers the following business questions:
 
 ⸻
 
-🗺 Entity Relationship Diagram
+## 🗺 Database Schema
+<img width="900" height="400" alt="Schema" src
+
+
+_____
+
+## 🚀 How to Run This Project
+	1.	Download the Chinook database.
+	2.	Import it into PostgreSQL.
+	3.	Open the music_store_analysis.sql file.
+	4.	Execute the queries individually to view results.
+
+
+_____
+
+## 🎯 Project Insights and Learnings 
+This project demonstrates:
+	•	Strong SQL fundamentals
+	•	Ability to work with relational databases
+	•	Business-focused analytical thinking
+	•	Query optimization and structured problem-solving
+
 
 
