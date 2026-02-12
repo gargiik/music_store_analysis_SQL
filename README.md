@@ -81,7 +81,8 @@ This project answers the following business questions:
 
 
 ## 🎯 Project Insights and Learnings 
-This project demonstrates:
+     This project demonstrates:
+	 
 	•	Strong SQL fundamentals
 	•	Ability to work with relational databases
 	•	Business-focused analytical thinking
