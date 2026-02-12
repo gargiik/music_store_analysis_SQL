@@ -6,7 +6,7 @@ The objective is to extract business insights related to customer behavior, reve
 
 The analysis is performed on the Chinook sample database, which simulates a real-world music store environment.
 
-⸻
+
 
 ## 🛠 Tools & Technologies Used
 	•	PostgreSQL
@@ -14,7 +14,7 @@ The analysis is performed on the Chinook sample database, which simulates a real
 	•	SQL
 	•	Excel (for dataset reference)
 
-⸻
+
 
 ## 🗂 Database Information
 The database includes the following key tables:
@@ -30,7 +30,7 @@ The database includes the following key tables:
 
 The database follows a relational structure connecting customers, purchases, tracks, and artists.
 
-⸻
+
 
 ## 📊 Business Questions Solved
 
@@ -44,7 +44,7 @@ This project answers the following business questions:
 	7.	Which artists have written the most Rock tracks?
 	8.	Which tracks are longer than the average song length?
 
-⸻
+
 
 ## 🔎 Key Insights
 	•	Certain countries contribute significantly more invoices than others.
@@ -53,7 +53,7 @@ This project answers the following business questions:
 	•	Rock is one of the most purchased music genres.
 	•	Some artists dominate the Rock category in terms of track count.
 
-⸻
+
 
 ## 🧠 SQL Concepts Used
 	•	JOIN (INNER JOIN across multiple tables)
@@ -65,13 +65,12 @@ This project answers the following business questions:
 	•	Filtering with WHERE
 	•	DISTINCT
 
-⸻
 
 ## 🗺 Database Schema
-<img width="900" height="400" alt="Schema" src
+<img width="900" height="400" alt="Schema" src="https://github.com/gargiik/music_store_analysis_SQL/blob/main/MusicDatabaseSchema.png">
 
 
-_____
+
 
 ## 🚀 How to Run This Project
 	1.	Download the Chinook database.
@@ -80,7 +79,6 @@ _____
 	4.	Execute the queries individually to view results.
 
 
-_____
 
 ## 🎯 Project Insights and Learnings 
 This project demonstrates:
