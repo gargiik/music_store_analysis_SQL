@@ -67,7 +67,7 @@ This project answers the following business questions:
 
 
 ## 🗺 Database Schema
-<img width="900" height="400" alt="Schema" src="https://github.com/gargiik/music_store_analysis_SQL/blob/main/MusicDatabaseSchema.png">
+<img width="600" height="900" alt="Schema" src="https://github.com/gargiik/music_store_analysis_SQL/blob/main/MusicDatabaseSchema.png">
 
 
 
